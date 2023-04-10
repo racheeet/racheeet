@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @racheeet
-- 👀 I’m interested in data analysis, data science
-- 🌱 I’m currently learning c++, starting a journey of million steps
 - 📫 How to reach me rastogirachit59@gmail.com
 
 <!---
